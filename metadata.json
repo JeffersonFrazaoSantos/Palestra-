@@ -1,0 +1,6 @@
+{
+  "name": "Escalabilidade e Squads de IA",
+  "description": "Apresentação e Masterclass Interativa de Engenharia de Negócios e Squads de IA por Ellen Salomão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
